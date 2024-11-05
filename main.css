@@ -44,3 +44,13 @@ ul {
     background-color: #555; 
     color: white; 
   }
+  
+  footer a{
+    text-decoration: none;
+    color: #feda6a;
+  }
+
+  footer a:hover{
+    text-decoration: none;
+    color: white;
+  }
